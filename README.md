@@ -1,8 +1,8 @@
-# Shoes-Shopping-App-In-Flutter
+# Shopping-App-In-Flutter
 
 > clone this repo
 ```
-git clone https://github.com/Sandip-Kanzariya/Shoes-Shopping-App-In-Flutter.git
+git clone https://github.com/techguru536/Shopping-With-Flutter.git
 ```
 > [Follow this to connect firebase ](https://firebase.google.com/docs/flutter/setup?platform=ios)
 
